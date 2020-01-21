@@ -1,0 +1,24 @@
+.listItem__wrapper {
+    list-style: none;
+    padding: 50px 30px;
+    display: list-item;
+    align-items: center;
+}
+
+.listItem__name {
+    padding-left: 50px;
+
+}
+
+.listItem__akt {
+    display: flex;
+    padding: 0 10px;
+
+}
+
+.listItem__statusBar {
+    padding: 5px 10px;
+    margin: 10px 20px;
+
+
+}
